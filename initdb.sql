@@ -1,5 +1,5 @@
 CREATE DATABASE flask;
-CREATE USER flask WITH ENCRYPTED PASSWORD 'Passw0rd!';
+CREATE USER flask WITH ENCRYPTED PASSWORD 'Password!';
 
 \c flask
 
