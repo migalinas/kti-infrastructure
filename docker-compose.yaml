@@ -12,7 +12,7 @@ services:
       - flask
 
   flask:
-    image: "migalinalexs/flask:1.0"
+    image: "migalinalexs/flask:3.0"
     container_name: flask
     environment:
       - FLASK_DEBUG=True
